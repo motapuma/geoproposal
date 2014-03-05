@@ -1,0 +1,54 @@
+td, ul, ol, p, #pintro, #pend{
+     text-align:justify;
+     font-size:14px;
+     font-family:"Times";
+ }
+
+h2 {
+    font-size:18px;
+    font-family:"Times";
+    font-style: italic;
+}
+span#pproj
+{
+   font-style: italic;
+   font-weight:bold; 
+}
+
+ .headerSp span
+ {
+    color:"#7F7F7F";
+ }
+
+ .geotable table { 
+    margin-right: 10px;
+        border-collapse: collapse;
+    }
+            
+.geotable td { 
+    border: 1px solid #cccccc;
+    border-width: 1px;
+
+    font-size: 0.9em;
+    }
+
+.geotable tr:first-child { 
+    font-weight: bold;
+    color: white;
+    background-color: #0b2265; 
+    border: 1px solid #cccccc;
+    border-width: 1px;
+    text-align: center;
+    }
+    
+.geolittle {
+            font-size:9px;
+            color:#7F7F7F;
+        }
+.pinvisible {
+            display:none;
+        }
+
+
+
+
